@@ -37,8 +37,7 @@ Developed a web application using Streamlit and FastAPI that interacts with an A
 *Architecture:*
 
 Simple diagram showing the components: Streamlit UI -> FastAPI Backend -> Vertex AI Agent -> Firestore.
-                            ^                                                       ^
-                            |                                                       |
+
 *Setup and Installation:*
 
 - Prerequisites (Python version, Google Cloud SDK installed and configured, gcloud auth application-default login executed).

@@ -37,10 +37,6 @@ Developed a web application using Streamlit and FastAPI that interacts with an A
 *Architecture:*
 
 Simple diagram showing the components: Streamlit UI -> FastAPI Backend -> Vertex AI Agent -> Firestore.
-
-Example:
-
-[Streamlit Web UI] <--> [FastAPI Backend API] <--> [Vertex AI Agent Client] <--> [Vertex AI Reasoning Engine (Travel Concierge)]
                             ^                                                       ^
                             |                                                       |
 *Setup and Installation:*

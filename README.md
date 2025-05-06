@@ -1,6 +1,6 @@
 **Project Title: AI-Powered Travel Concierge Web Application**
 
-**Demo:** [![Watch the demo video]](https://drive.google.com/file/d/1A3sk1zfgQqURGWCWnvSdO1psyn23eMFL/view?usp=drive_link)
+**Demo:** [Watch the demo video](https://drive.google.com/file/d/1A3sk1zfgQqURGWCWnvSdO1psyn23eMFL/view?usp=drive_link)
 
 *Overview/Goal:*
 

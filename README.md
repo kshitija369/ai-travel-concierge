@@ -1,5 +1,7 @@
 **Project Title: AI-Powered Travel Concierge Web Application**
 
+**Demo:** [![Watch the demo video]](https://drive.google.com/file/d/1A3sk1zfgQqURGWCWnvSdO1psyn23eMFL/view?usp=drive_link)
+
 *Overview/Goal:*
 
 Developed a web application using Streamlit and FastAPI that interacts with an AI agent (Google's ADK 'Travel Concierge,' deployed on Vertex AI as a Reasoning Engine) to help users plan trips, get suggestions, and save itineraries. Key features include multi-turn conversation, itinerary generation, saving/viewing trips, Firestore integration.
